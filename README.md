@@ -1,2 +1,2 @@
 # Linked-List
-Programs related to Linked List (Single LL, Double LL, CIRCULAR LL)
+Programs related to Linked List (Single LL, Double LL, Circular LL)
